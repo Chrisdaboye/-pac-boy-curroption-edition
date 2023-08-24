@@ -1,5 +1,5 @@
 {
-    "name": " Pac boy Curroption edition",
+    "name": " Pac boy Curroption edition - Copy - Copy",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -18,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.8.30",
+        "target": "1.12.36",
         "targetId": "arcade"
     },
     "supportedTargets": [
